@@ -1,0 +1,33 @@
+body {
+  background-color: brown;
+}
+
+.name {
+  text-align: center;
+  font-family: Arial;
+  color: indigo;
+}
+table {
+  width: 100%;
+}
+table,
+th,
+td {
+  padding: 8px;
+  border: 2px solid black;
+  border-collapse: collapse;
+  align-items: center;
+}
+th,
+td {
+  text-align: center;
+}
+th {
+  background-color: blue;
+}
+tr td:hover {
+  color: rgb(254, 1, 1);
+}
+tr th :hover {
+  color: cyan;
+}

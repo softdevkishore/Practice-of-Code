@@ -1,0 +1,15 @@
+.Float {
+  text-align: center;
+}
+.left {
+  float: left;
+  width: 100px;
+  height: 100px;
+  background-color: aqua;
+}
+.right {
+  float: right;
+  width: 100px;
+  height: 100px;
+  background-color: rgb(255, 34, 0);
+}

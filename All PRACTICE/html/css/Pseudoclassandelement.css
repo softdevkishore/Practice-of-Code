@@ -1,0 +1,19 @@
+a:hover {
+  color: aqua;
+}
+.element input:focus {
+  background-color: rgb(81, 81, 230);
+}
+p::before {
+  content: "ODI World Cup champions";
+  font-weight: bolder;
+  color: aqua;
+}
+.element2 > p:first-child {
+  color: crimson;
+  background-color: blue;
+  padding: 10px;
+}
+.element3 :nth-child(odd) {
+  color: darkmagenta;
+}

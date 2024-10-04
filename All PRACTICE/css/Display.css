@@ -1,0 +1,9 @@
+body{
+    background-color: bisque;
+}
+.hidden{
+    display:none;
+}
+.flex{
+    display:flex;
+}

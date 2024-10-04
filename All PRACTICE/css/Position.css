@@ -1,0 +1,58 @@
+.box{
+    position: static;
+    border: 2px solid red;
+    border-radius: 5px;
+    padding: 30px;
+    color: aqua;
+}
+.element{
+    position: relative;
+    top: 20px;
+    left: 40px;
+    border: 2px solid blue;
+    border-radius: 5px;
+    padding: 10px;
+    font-size: larger;
+}
+.paragrap{ 
+    position: relative;
+    top: 30px;
+    right: 40px;
+    left: 140px;
+    color: brown;
+    font-style: italic;
+}
+.fxd{
+    position: fixed;
+    top: 320px;
+    left: 1450px;
+    color: black;
+    border: 2px solid navy;
+    border-radius: 5px;
+}
+.container{
+    position: relative;
+    height: 250px;
+    top: 30px;
+    border: 2px solid gold;
+    padding: 10px;
+}
+.ale{
+    position: absolute;
+    top: 80px;
+    left: 80px;
+    color: darkorchid;
+    border: 1px solid red;
+    border-radius: 5px;
+    font-style: oblique;
+    font-size: smaller;
+}
+.sty{
+    position: sticky;
+    top: 0;
+    border: 2px solid green ;
+    color: deeppink;
+    border-radius: 5px;
+    background-color: aqua;
+
+}

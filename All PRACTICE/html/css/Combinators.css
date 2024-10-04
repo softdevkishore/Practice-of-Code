@@ -1,0 +1,17 @@
+.container p {
+  color: blue;
+}
+.child1 > p {
+  color: rgb(149, 165, 42);
+}
+.container1 p + p {
+  color: brown;
+}
+.class p ~ span {
+  color: aqua;
+}
+.element {
+  position: absolute;
+  top: 20%;
+  left: 40%;
+}

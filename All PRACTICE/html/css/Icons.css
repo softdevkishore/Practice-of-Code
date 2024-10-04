@@ -1,0 +1,8 @@
+body .icons-hello::before {
+  content: "\1F60A";
+  font-size: 40px;
+}
+.icons-monster::before {
+  content: "\1F608";
+  font-size: 50px;
+}

@@ -1,0 +1,19 @@
+.navbar {
+  background-color: transparent;
+  padding: 10px;
+}
+.navbar ul {
+  list-style: none;
+  padding: 0px;
+  margin: 0px;
+  overflow: hidden;
+}
+
+.navbar li a {
+  display: block;
+  color: black;
+  padding: 16px 14px;
+  text-decoration: none;
+  float: right;
+}
+

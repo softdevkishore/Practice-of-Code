@@ -1,0 +1,32 @@
+.tab {
+  text-align: center;
+  color: aqua;
+  font-style: italic;
+  font-family: "Segoe UI";
+}
+table {
+  width: 100%;
+}
+table,
+th,
+td {
+  border: 2px solid black;
+  border-collapse: collapse;
+  border-radius: 2px;
+}
+td {
+  background-color: brown;
+  text-align: center;
+}
+th {
+  background-color: aqua;
+}
+tr :hover {
+  background-color: blue;
+}
+td :host {
+  color: white;
+}
+tr:nth-child(2) {
+  color: blueviolet;
+}
